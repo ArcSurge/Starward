@@ -35,10 +35,3 @@ jobs:
         git config --global user.email '${{ github.actor }}@users.noreply.github.com'
         git commit -am "convert preview to stable"
         git push
-
-    - name: Upload to OSS
-      run: |
-        rm -rf ./.git ./.github
-        curl https://gosspublic.alicdn.com/ossutil/install.sh | sudo bash
-        ossutil config -e ${{ secrets.OSS_ENDPOINT }} -i ${{ secrets.ACCESS_KEY_ID }} -k ${{ secrets.ACCESS_KEY_SECRET }}
-        ossutil cp -rf ./ oss://starward/metadata/    
