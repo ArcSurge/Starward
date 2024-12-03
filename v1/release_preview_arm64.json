@@ -1,19 +1,16 @@
 {
-  "Version": "0.13.5",
-  "PortableHash": "600104F4928C744B1557A07203FEA936053BF341C88C1AD01365A07F5BC3E1FA",
-  "BuildTime": "2024-12-03T00:13:44.0720878+00:00",
-  "PortableSize": 53861369,
-  "SeparatePrefix": "https://starward.scighost.com/release/separate_files/",
-  "InstallHash": null,
+  "Architecture": "arm64",
+  "PortableHash": "BAAB53AB40EEB36F824E3819153A3D12FF5858EC55F365A0C1B6B8E1BABCE7F9",
   "DisableAutoUpdate": false,
-  "InstallSize": 0,
-  "Install": null,
-  "Portable": "https://starward.scighost.com/release/package/Starward_Portable_0.13.5_arm64.7z",
+  "Version": "0.13.5",
+  "BuildTime": "2024-12-03T01:36:56.7909874+00:00",
+  "PortableSize": 53864648,
+  "SeparatePrefix": "https://starward.scighost.com/release/separate_files/",
   "SeparateFiles": [
     {
       "Path": "Starward.exe",
-      "Size": 1345024,
-      "Hash": "1F1CE091B1F9713343C6B87EB6B7FCA00A682423BD3778909698849C35F9D0B0"
+      "Size": 1700864,
+      "Hash": "A2071F24992118AE8978AFACD41488891BD9A71D9CB635F32DB7E03E61F08619"
     },
     {
       "Path": "version.ini",
@@ -673,12 +670,12 @@
     {
       "Path": "app-0.13.5\\Starward.Core.dll",
       "Size": 3371008,
-      "Hash": "EFDA656938D90624733A26A0A6640D6D74558797F87F3B5779EED13B9CE65E32"
+      "Hash": "EB79FF284E906693DFFF17C6E1E3E0678ECE2E21C8334D09BF3DEE87E820C089"
     },
     {
       "Path": "app-0.13.5\\Starward.Core.pdb",
       "Size": 646444,
-      "Hash": "5D9936C0112154B04AD8EB605016A6DA9B8AD7CE23D439895EF40738436729AB"
+      "Hash": "010459DFC8D08C9ACECF72281C6BB3FEB6F7FECA38F450AC5DB54B85E57587A3"
     },
     {
       "Path": "app-0.13.5\\Starward.deps.json",
@@ -688,7 +685,7 @@
     {
       "Path": "app-0.13.5\\Starward.dll",
       "Size": 7614464,
-      "Hash": "FF964D7A21498FA398B3CFA59F9E23271F3FDB467532BCDD32649685F3391374"
+      "Hash": "61D38121AEA56F416EEAC4FBF292383D52C60DB7F8F3166A308AE1A45AEA8061"
     },
     {
       "Path": "app-0.13.5\\Starward.exe",
@@ -698,12 +695,12 @@
     {
       "Path": "app-0.13.5\\Starward.Language.dll",
       "Size": 221184,
-      "Hash": "A43C7ECE557CB27C630E6FE8C8118B13E3DA82088A38DDC77A6BE99ACAA7D21C"
+      "Hash": "1E068E3DA2A934BFFCAD543D2EB752D2D6E6FF26B35F53E780BBC2F28ED3868B"
     },
     {
       "Path": "app-0.13.5\\Starward.Language.pdb",
-      "Size": 25568,
-      "Hash": "68E2F53282D6B00286FCE5AAA7C97FD31E8F24F448F229A4CBDBA7EEF10A8AAD"
+      "Size": 25564,
+      "Hash": "43ED1CC691A0AEF6EA42CD55FC5656A3756857EE29BF215E35499779AB6B372E"
     },
     {
       "Path": "app-0.13.5\\Starward.NativeLib.dll",
@@ -713,7 +710,7 @@
     {
       "Path": "app-0.13.5\\Starward.pdb",
       "Size": 1449268,
-      "Hash": "B81A446784D584D39DA7FCD89AFEE101828CCE70B50B0A8817E8C4777BDC47BE"
+      "Hash": "E22E2F506FBED11EC92545735B13C677BF99F5A5BFA5681B79F4B314D8FCDE33"
     },
     {
       "Path": "app-0.13.5\\Starward.runtimeconfig.json",
@@ -2048,12 +2045,12 @@
     {
       "Path": "app-0.13.5\\de-DE\\Starward.Core.resources.dll",
       "Size": 8192,
-      "Hash": "2AF2A4C5330026E3B1B7ECFA226187635B9B14AC61BBE8D53614BBE1AD27A58D"
+      "Hash": "24F8C43A7469B783B7FD3A9233AB7290202B602F39D61345B2D314040C8D2869"
     },
     {
       "Path": "app-0.13.5\\de-DE\\Starward.Language.resources.dll",
       "Size": 57344,
-      "Hash": "8A911FFE6B6F98427201793C36B09330ABC32CF8A31A439C0CFF13ACE2976CDC"
+      "Hash": "CEABB8901E1987376E94550AFB78ADD5F5FF0D9D5202513302F026E1C41EE02C"
     },
     {
       "Path": "app-0.13.5\\el-GR\\Microsoft.ui.xaml.dll.mui",
@@ -2088,7 +2085,7 @@
     {
       "Path": "app-0.13.5\\en-us\\Starward.Core.resources.dll",
       "Size": 6656,
-      "Hash": "132430F1B01F5259A8F78C35CA2F43EE83DEC681B85CE16C86D23F98169202C3"
+      "Hash": "252A1503CBCE55FA6A8CDDB6D092B7ABF49A077D1BEBA616AE390E04A1CC3BAA"
     },
     {
       "Path": "app-0.13.5\\es-ES\\Microsoft.ui.xaml.dll.mui",
@@ -2103,12 +2100,12 @@
     {
       "Path": "app-0.13.5\\es-ES\\Starward.Core.resources.dll",
       "Size": 8704,
-      "Hash": "8FB9C37A8680EBF7CB8CE1E6490D62C10C2328B821DAEEE0ABF444872B5F1B1F"
+      "Hash": "E60B0CBCE69C7AA1536F8412B3B5A49E9B1507D65521ECD5F210C7CB7A4D186D"
     },
     {
       "Path": "app-0.13.5\\es-ES\\Starward.Language.resources.dll",
       "Size": 55296,
-      "Hash": "6CACFF499E2FAF47026F9771C640C7A1AD644898299860AEF25D092916EF3BB8"
+      "Hash": "DFE981BDC84833571DEE0F590293AE715914A64084B4B92D36586A6B24ECFB70"
     },
     {
       "Path": "app-0.13.5\\es-MX\\Microsoft.ui.xaml.dll.mui",
@@ -2318,12 +2315,12 @@
     {
       "Path": "app-0.13.5\\it-IT\\Starward.Core.resources.dll",
       "Size": 8192,
-      "Hash": "9159ECFABBE0AD6D50C5D92766025A6D668CACB7B08B2B58BFB99B788BD6C771"
+      "Hash": "D840986FBEC7C61CFF420CEF522B3E09089D8838A36FFA894EA1754450E3BB51"
     },
     {
       "Path": "app-0.13.5\\it-IT\\Starward.Language.resources.dll",
       "Size": 55808,
-      "Hash": "F0CAC6781757570C5A22F5F6E1F50BDEBD50D5F10A5CFA2C71F7D095ECE8D3D2"
+      "Hash": "97568861F54336852D0569B63138BF484017AA4F6466A8EE5C30EBDAF91130C5"
     },
     {
       "Path": "app-0.13.5\\ja-JP\\Microsoft.ui.xaml.dll.mui",
@@ -2338,12 +2335,12 @@
     {
       "Path": "app-0.13.5\\ja-JP\\Starward.Core.resources.dll",
       "Size": 8704,
-      "Hash": "98A4D7C869AA214E435FA890AE4399AD69D3DCC775FF6F70C0D0281D72109AB3"
+      "Hash": "E834C0DA02A27202BD790EB9B9C649AE28B6E9A3F794317C5FF3AB2171973198"
     },
     {
       "Path": "app-0.13.5\\ja-JP\\Starward.Language.resources.dll",
       "Size": 60928,
-      "Hash": "E33DB06BAF20A5689E70BD770CAEBCDE610FDA91A7577CFE210B25B30618F9EE"
+      "Hash": "9E31DD9A3E59BBF7BCB1FCC9353D02CAC5F133DBDCD98BFB51BBECD8650C3210"
     },
     {
       "Path": "app-0.13.5\\ka-GE\\Microsoft.ui.xaml.dll.mui",
@@ -2398,12 +2395,12 @@
     {
       "Path": "app-0.13.5\\ko-KR\\Starward.Core.resources.dll",
       "Size": 8192,
-      "Hash": "A1B75DC2CB170E10160CEE437F7E779F1104A8C40FCF121DCCD65327D5D04054"
+      "Hash": "5BCFBFB20C1A142F73D4CDD2DFB9B954B54CD60621F543C2FE8CE1404DBFC105"
     },
     {
       "Path": "app-0.13.5\\ko-KR\\Starward.Language.resources.dll",
       "Size": 56832,
-      "Hash": "65EA630A5ED4F58A63BD726ED9030730462458223CB49A48ECA4ADD98B999BF2"
+      "Hash": "1225160578A89F4DB972118F20C053CC26AA8C46870F82B4DE9C505D2AA17790"
     },
     {
       "Path": "app-0.13.5\\kok-IN\\Microsoft.ui.xaml.dll.mui",
@@ -2648,12 +2645,12 @@
     {
       "Path": "app-0.13.5\\ru-RU\\Starward.Core.resources.dll",
       "Size": 9216,
-      "Hash": "A0059F3A8F6B69DB88FBCCC9A9AA9A06C7998E8C154C1A377C7ED7EF360BC15D"
+      "Hash": "E14E02931D19A3D6CD274805C16B2EE8990D9ACC7E362C02AAD44CF289FAEA26"
     },
     {
       "Path": "app-0.13.5\\ru-RU\\Starward.Language.resources.dll",
       "Size": 67072,
-      "Hash": "F25524F205E8AC4743F4DE549AA24E46EBC0A697218F0E074C81A59AFDA443D1"
+      "Hash": "5711E6620A8A298F3FF693DC3E78187259C750E10A038AB0F330AE1377226AE6"
     },
     {
       "Path": "app-0.13.5\\sk-SK\\Microsoft.ui.xaml.dll.mui",
@@ -2758,12 +2755,12 @@
     {
       "Path": "app-0.13.5\\th-TH\\Starward.Core.resources.dll",
       "Size": 9216,
-      "Hash": "42A613D331831F32EE46719D8BF22DF779262FC38A4D62705E7AA40E91B5C90C"
+      "Hash": "A7C15C80DEB2B188CE87EDACA77D2B473180892ED46C098F2270EF69E5E4F0D4"
     },
     {
       "Path": "app-0.13.5\\th-TH\\Starward.Language.resources.dll",
       "Size": 67584,
-      "Hash": "EE47E30E687A9DB019AD287ABFA40EDBC8BE067712D390CF46824C2479A96571"
+      "Hash": "AC26576FE8B781B9BA7E8645DC1E1AD1521D0E78F4CFBB0B50904A04DBEAD2F9"
     },
     {
       "Path": "app-0.13.5\\tr-TR\\Microsoft.ui.xaml.dll.mui",
@@ -2838,12 +2835,12 @@
     {
       "Path": "app-0.13.5\\vi-VN\\Starward.Core.resources.dll",
       "Size": 8704,
-      "Hash": "C0F40FE6E5E1914F26DF90E328F2D38F5EF5775EEC54FF930D3253FD5038BD78"
+      "Hash": "68FC300339F02FAAA54C67F59F939CD5D381F1BFCF670B096ADC796BC6FEEEA9"
     },
     {
       "Path": "app-0.13.5\\vi-VN\\Starward.Language.resources.dll",
       "Size": 59904,
-      "Hash": "C4E67964D2C685D83FE5898E3B6602EB2C92A4DDD28A236B6A0CB5DFC0638674"
+      "Hash": "71F9CAC5EDD92724B1005636930EF6D1E716681C9A1D2817B9D5D143D2C969B0"
     },
     {
       "Path": "app-0.13.5\\zh-CN\\Microsoft.ui.xaml.dll.mui",
@@ -2858,12 +2855,12 @@
     {
       "Path": "app-0.13.5\\zh-CN\\Starward.Core.resources.dll",
       "Size": 8192,
-      "Hash": "5353FC95B9531CF96C7C818886DCA5C51BD560B295F7F12D996201C5E2C85661"
+      "Hash": "A6397CE491D456009757D1F19B4B7FEECCA8E0CBE2D0565144F0CB6993DEF41F"
     },
     {
       "Path": "app-0.13.5\\zh-CN\\Starward.Language.resources.dll",
       "Size": 53248,
-      "Hash": "0CEFC634ECF2DBF844D10878CE8C893FC67E5616C76D60210C40E3DDBF2EB3DD"
+      "Hash": "EE9525C9C305548CA46120AA2182D99EE1E7FCD2B9CDE1E3F06C5BD5F15D420A"
     },
     {
       "Path": "app-0.13.5\\zh-TW\\Microsoft.ui.xaml.dll.mui",
@@ -2878,13 +2875,16 @@
     {
       "Path": "app-0.13.5\\zh-TW\\Starward.Core.resources.dll",
       "Size": 8192,
-      "Hash": "9A76DC67AE91DD48784C49D2C9F1C46FFC65C26DAC2FA29E69145343737A6FFB"
+      "Hash": "6D89163AEE82F9B92D6803F1467D297857B143E7603F56B551E9D062AC5DF795"
     },
     {
       "Path": "app-0.13.5\\zh-TW\\Starward.Language.resources.dll",
       "Size": 53248,
-      "Hash": "6D86B8F5B39C8844611959764740658DF924DD3C992EC12C0BF9F584E914D5E1"
+      "Hash": "9A5C62D8445E2C073D708B6DCE4A6707DED052C1846A3B0E3CFE9C085E79D586"
     }
   ],
-  "Architecture": "arm64"
+  "InstallHash": null,
+  "Portable": "https://starward.scighost.com/release/package/Starward_Portable_0.13.5_arm64.7z",
+  "InstallSize": 0,
+  "Install": null
 }
